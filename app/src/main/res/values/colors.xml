@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#2E7D32</color> <!-- Forest Green -->
+    <color name="primary_variant">#1B5E20</color>
+    <color name="secondary">#4CAF50</color> <!-- Lighter Green accent -->
+    <color name="background">#FFF8F0</color> <!-- Peach/Cream background -->
+    <color name="surface">#FFF8F0</color>
+    <color name="error">#FF3B30</color> <!-- Red for Logout/Errors -->
+    <color name="text_primary">#000000</color>
+    <color name="text_secondary">#8E8E93</color>
+    <color name="surface_variant">#E5E5EA</color>
+</resources>
